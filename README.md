@@ -3,7 +3,7 @@
 
 Figuring how to CSS.
 
-languages i can do:
+languages:
   Lua,
   HTML (if you can call it that),
   JS,
