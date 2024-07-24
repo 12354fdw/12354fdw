@@ -8,3 +8,6 @@ languages:
   HTML (if you can call it that),
   JS,
   Processing
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12354fdw&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
